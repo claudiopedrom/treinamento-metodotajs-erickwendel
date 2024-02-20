@@ -1,0 +1,16 @@
+{
+  "name": "metodo-tajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "claudiomindouro",
+  "license": "ISC",
+  "type": "module",
+  "engines": {
+    "node": "v18.17.0"
+  }
+}
